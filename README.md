@@ -2,72 +2,33 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/63803770-18e4-400c-a6f7-295e65ecceff
+**URL**: https://id-preview--63803770-18e4-400c-a6f7-295e65ecceff.lovable.app/
 
-## How can I edit this code?
+Venture Connect (or Quick Link)
 
-There are several ways of editing your application.
+Welcome to Venture Connect – the all-in-one networking app designed to seamlessly connect startups, investors, job seekers, and employers. Think of it as a professional matchmaking tool: choose your role and swipe your way to new opportunities!
 
-**Use Lovable**
+Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/63803770-18e4-400c-a6f7-295e65ecceff) and start prompting.
+Four User Types: When signing up, users select whether they are an Investor, Startup, Job Seeker, or Employer.
 
-Changes made via Lovable will be committed automatically to this repo.
+Matchmaking Interface: Much like a dating app, you can swipe through profiles and find relevant matches quickly.
 
-**Use your preferred IDE**
+Cross-Role Interaction: Startups can find investors, job seekers can find employers, and vice versa—making it a versatile tool for all sides of the table.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Getting Started
 
-Follow these steps:
+Sign Up: Create your account and select your role:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Investor if you’re looking to fund promising ventures.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Startup if you’re seeking investors or talent.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Job Seeker if you’re on the hunt for new opportunities.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Employer if you want to find new talent for your company.
 
-**Edit a file directly in GitHub**
+Build Your Profile: Add details about what you’re looking for, your interests, and any key info that will help you get matched.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/63803770-18e4-400c-a6f7-295e65ecceff) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Start Matching: Swipe through potential connections and find your perfect fit, whether that’s a new hire, a new investor, or a new company to join.
