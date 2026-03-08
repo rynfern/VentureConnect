@@ -4,7 +4,7 @@
 
 **URL**: https://id-preview--63803770-18e4-400c-a6f7-295e65ecceff.lovable.app/
 
-Venture Connect (or Quick Link)
+Venture Connect
 
 Welcome to Venture Connect – the all-in-one networking app designed to seamlessly connect startups, investors, job seekers, and employers. Think of it as a professional matchmaking tool: choose your role and swipe your way to new opportunities!
 
